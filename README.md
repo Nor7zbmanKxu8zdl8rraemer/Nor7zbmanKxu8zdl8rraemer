@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nor7zbmanKxu8zdl8rraemer
 
-<!--
-**Nor7zbmanKxu8zdl8rraemer/Nor7zbmanKxu8zdl8rraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥊 🥋 🎯 A professional in artificial intelligence 🥊 🥋 🎯
 
-Here are some ideas to get you started:
+## About Me
+🎻 🎸 🎯 A developer in testing 🎻 🎸 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛼 🎬 🛶 Creating amazing things with tech communities 🛼 🎬 🛶
+
+### Fun Facts
+🌈 🥁 💻 Exploring the world of game development 🌈 🥁 💻
+
+---
+🏊 🏏 🎮 🎣 🚴 Thanks for visiting my profile! 🏸 🚵 🏏 🏸 🛼
